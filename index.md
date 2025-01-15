@@ -15,7 +15,7 @@ A collaborative project developed with James Burriss, Landon Casstevens, Brandon
 
 ---
 
-### 2. Betting Algorithm Analysis *(In Progress)*
+### 2. Sports Algorithm Analysis *(In Progress)*
 A project leveraging **Power BI** to aggregate and process player statistics. The system provides actionable insights through a unified interface, highlighting trends and opportunities powered by a robust algorithm.  
 
 **Key Features:**
