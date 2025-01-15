@@ -1,8 +1,8 @@
 ---
-title: My Portfolio
+My Portfolio: Riley Simpson
 ---
 
-Outlook of my projects over the years: 
+### Outlook of my projects over the years: 
 
 1. GymPal
 2. Betting Algorithm Analysis (In Progress) 
