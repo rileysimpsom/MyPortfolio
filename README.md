@@ -1,57 +1,85 @@
-<header>
+# Riley Simpson Portfolio
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+Welcome to my portfolio! This repository showcases a collection of my projects and research papers, representing my academic and professional journey over the years. Each project highlights my skills, contributions, and experiences in software development, database design, bioinformatics, and ethical research.
 
-# GitHub Pages
+## About
+This portfolio serves as a comprehensive overview of my work, demonstrating my growth in various technical domains. It includes software projects, web applications, database systems, and research papers on bioinformatics and ethical decision-making. Whether you’re here to explore my code, view my papers, or learn about my contributions, you’ll find detailed descriptions, key features, and links for more information.
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+## Projects Overview
+### Software Projects
+1. **[GymPal](https://github.com/rileysimpsom/Software-Engineering-Project)**  
+   A fitness app connecting users with gym partners and tracking workouts.  
+   **Key Features:**
+   - User connection platform for finding gym partners.
+   - Fitness tracking system with real-time updates.
+   - Integration of Firebase for scalable data management.
+   - Geo-location and gym discovery powered by Google Maps.
 
-</header>
+2. **[Sports Algorithm Analysis](#)** *(In Progress)*  
+   A Power BI project for sports data analysis and actionable insights.  
+   **Key Features:**
+   - Centralized database for player statistics.
+   - Data visualization and trend analysis using Power BI.
+   - Algorithm-driven insights for actionable recommendations.
+   - Streamlined interface for efficient user interaction.
 
-<!--
-  <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps.
--->
+3. **[Booth Reservation System](https://github.com/rileysimpsom/panel-expo-manager)**  
+   A web application for managing booth reservations at international events.  
+   **Key Features:**
+   - Automated booth reservation workflow.
+   - Responsive web interface for user convenience.
+   - Seamless integration of back-end processes.
+   - Enhanced organizational capabilities for event planning.
 
-## Finish
-
-_Congratulations friend, you've completed this course!_
-
-<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
-
-Your blog is now live and has been deployed!
-
-Here's a recap of all the tasks you've accomplished in your repository:
-
-- You enabled GitHub Pages.
-- You selected a theme using the config file.
-- You learned about proper directory format and file naming conventions in Jekyll.
-- You created your first blog post with Jekyll!
-
-### What's next?
-
-- Keep working on your GitHub Pages site... we love seeing what you come up with!
-- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+4. **[Manatee Tracking Application](#)**  
+   A real-time tracking app for marine life enthusiasts.  
+   **Key Features:**
+   - Real-time tracking of manatees with location updates.
+   - Detailed profile information for each manatee.
+   - User-friendly interface for data visualization.
+   - Built for marine life tracking and education purposes.
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+### Research Papers
+5. **[Ethical Debate on Autonomous Vehicles](https://github.com/rileysimpsom/Ethics-in-CSC-Final-Paper)**  
+   A paper analyzing ethical frameworks and legal considerations for autonomous vehicles.  
+   **Key Features:**
+   - Comparative analysis of deontological and utilitarian frameworks.
+   - Insights into the societal and legal impact of AVs.
+   - Recommendations for ethical decision-making algorithms.
+   - Exploration of public perception and policy integration.
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+6. **[DNA Sequencing and Fuzzy Searching](https://github.com/rileysimpsom/DaAoA-Final-Paper)**  
+   A study exploring advanced algorithms in bioinformatics for genetic analysis.  
+   **Key Features:**
+   - In-depth study of sequence alignment algorithms.
+   - Application of fuzzy searching for genetic variation analysis.
+   - Efficiency comparisons for large genomic datasets.
+   - Practical insights for advancements in computational biology.
 
-</footer>
+---
+
+### Database Project
+7. **[Finance Tracker](https://github.com/rileysimpsom/FinanceTrackerProject)**  
+   A comprehensive database system for financial management and reporting.  
+   **Key Features:**
+   - Robust database schema with optimized relationships.
+   - Advanced SQL queries, including joins, subqueries, and aggregation.
+   - Automation through stored procedures, functions, and triggers.
+   - Web-based front-end for streamlined query execution and reporting.
+
+---
+
+## Technologies & Skills
+- **Languages**: Python, SQL, Java, JavaScript, Dart, and Flutter.
+- **Tools & Frameworks**: Firebase, Power BI, Responsive Web Design.
+- **Research Areas**: Bioinformatics, Database Systems, Ethical AI.
+
+## Contact
+Riley Simpson | Email: [riley.simpson1014@outlook.com](mailto:riley.simpson1014@outlook.com)  
+[LinkedIn](https://www.linkedin.com/in/riley-simpson-766ab8224/)  
+
+---
+
+Thank you for exploring my portfolio. I hope it provides valuable insight into my work and capabilities!
