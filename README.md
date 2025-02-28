@@ -72,7 +72,7 @@ This portfolio serves as a comprehensive overview of my work, demonstrating my g
 ---
 
 ## Technologies & Skills
-- **Languages**: Python, SQL, Java, JavaScript, Dart, and Flutter.
+- **Languages**: Python, SQL, R, SAS, Java, JavaScript, Dart, and Flutter.
 - **Tools & Frameworks**: Firebase, Power BI, Responsive Web Design.
 - **Research Areas**: Bioinformatics, Database Systems, Ethical AI.
 
