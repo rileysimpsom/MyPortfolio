@@ -9,7 +9,7 @@ This portfolio serves as a comprehensive overview of my work, demonstrating my g
 
 ### AI Projects
 1. **[AI Sales and Inventory Forecasting Tool](https://github.com/rileysimpsom/forecast-tooling)**
-   A containerized, local-first AI forecasting platform designed to help small businesses generate, track, and evaluate sales forecasts without relying on cloud-hosted         proprietary tools.
+      A containerized, local-first AI forecasting platform designed to help small businesses generate, track, and evaluate sales forecasts without relying on cloud-hosted            proprietary tools.
    **Key Features:**
    - End-to-end forecasting pipeline orchestrated with Apache Airflow for data ingestion, preprocessing, model training, and evaluation.
    - MLflow integration for experiment tracking, model versioning, and metric logging (MAE, RMSE, MAPE, SMAPE, R²).
