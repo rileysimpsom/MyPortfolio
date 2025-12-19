@@ -6,6 +6,19 @@ Welcome to my portfolio! This repository showcases a collection of my projects a
 This portfolio serves as a comprehensive overview of my work, demonstrating my growth in various technical domains. It includes software projects, web applications, database systems, and research papers on bioinformatics and ethical decision-making. Whether you’re here to explore my code, view my papers, or learn about my contributions, you’ll find detailed descriptions, key features, and links for more information.
 
 ## Projects Overview
+
+### AI Projects
+1. **[AI Sales and Inventory Forecasting Tool](https://github.com/rileysimpsom/forecast-tooling)**
+   A containerized, local-first AI forecasting platform designed to help small businesses generate, track, and evaluate sales forecasts without relying on cloud-hosted         proprietary tools.
+   **Key Features:**
+   - End-to-end forecasting pipeline orchestrated with Apache Airflow for data ingestion, preprocessing, model training, and evaluation.
+   - MLflow integration for experiment tracking, model versioning, and metric logging (MAE, RMSE, MAPE, SMAPE, R²).
+   - Streamlit dashboard for running forecasts, visualizing predictions, and reviewing historical model performance.
+   - PostgreSQL backend for structured data storage and MLflow metadata.
+   - MinIO (S3-compatible storage) for managing model artifacts in a local environment.
+   - Fully Dockerized architecture enabling reproducible deployments and local-first data privacy.
+   - Modular design supporting future extensions such as per-SKU forecasting, external data sources, and automated retraining.
+
 ### Software Projects
 1. **[GymPal](https://github.com/rileysimpsom/Software-Engineering-Project)**  
    A fitness app connecting users with gym partners and tracking workouts.  
